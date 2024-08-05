@@ -2,4 +2,4 @@
 
 ## Deep Learning - SE4050
 
-Lab Exercise 02
+Lab 02
