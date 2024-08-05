@@ -1,0 +1,10 @@
+Exercise 02
+
+1. What happens when the number of hidden nodes increase?
+
+    When the number of hidden nodes increases, the model initially gains more capacity to learn complex patterns, which often leads to higher accuracy.
+
+
+2. Can you explain the pattern of the accuracy when the hidden nodes increase?
+
+    When the number of hidden nodes is small, the model may not capture the data complexity well, resulting in lower accuracy. As the number of hidden nodes increases, the model can learn more complex patterns, typically leading to higher accuracy.
